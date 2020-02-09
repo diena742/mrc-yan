@@ -1,0 +1,687 @@
+127.0.0.1       localhost
+::1             ip6-localhost
+::1             ip4-localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1        ip4-localhost ip4-loopback
+fe80::1%lo0 localhost
+ff00::0 ip4-localnet
+ff00::0 ip4-mcastprefix
+ff02::1 ip4-allnodes
+ff02::2 ip4-allrouters
+ff02::3 ip4-allhosts
+fe80::1%lo0 localhost
+::1        ip6-localhost ip6-loopback
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+125.39.52.26 .qq.com
+2600:1400:c000:388:0:0:0:180c .qq.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+ 54.183.150.73 .Helpshift.com
+2600:1f1c:361:616:19da:7d04:ba65:c228 .Helpshift.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+2600:9000:5304:c300:0:0:0:1 .ns208.91.196.1051219.awsdns208.91.196.10524.org
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+2600:9000:5307:b400:0:0:0:1 .ns208.91.196.1051972.awsdns208.91.196.10554.co.uk
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+2600:9000:5301:7800:0:0:0:1 .ns208.91.196.105376.awsdns208.91.196.10547.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+2600:9000:5302:6800:0:0:0:1 .ns208.91.196.105616.awsdns208.91.196.10513.net
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+88.221.134.225 .www.pubgmobile.com
+2600:141b:13:0:0:0:17d7:8261 .www.Pubgmobile.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+2600:9000:5305:1000:0:0:0:1 .ns208.91.196.1051296.awsdns208.91.196.10534.org
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+2600:9000:5307:bf00:0:0:0:1 .ns208.91.196.1051983.awsdns208.91.196.10555.co.uk
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+2600:9000:5301:5f00:0:0:0:1 .ns208.91.196.105351.awsdns208.91.196.10543.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+2600:9000:5303:7900:0:0:0:1 .ns208.91.196.105889.awsdns208.91.196.10547.net
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+112.19.7.64 .tencent.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+::1        ip4-localhost ip4-loopback
+::1        ip6-localhost ip6-loopback
+
+14.18.175.154       localhost
+::1             ip6-localhost
+::1             ip4-localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1        ip4-localhost ip4-loopback
+fe80::1%lo0 localhost
+ff00::0 ip4-localnet
+ff00::0 ip4-mcastprefix
+ff02::1 ip4-allnodes
+ff02::2 ip4-allrouters
+ff02::3 ip4-allhosts
+fe80::1%lo0 localhost
+::1        ip6-localhost ip6-loopback
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+14.18.175.154 plbslog.umeng.com
+14.18.175.154 api.phenixos.com
+14.18.175.154 graph.facebook.com
+14.18.175.154 googleads.g.doubleclick.net
+14.18.175.154 ulogs.umengcloud.com
+14.18.175.154 ulogs.umeng.com
+14.18.175.154 mobile.qq.com
+14.18.175.154 guanjia.qq.com
+14.18.175.154 guangzi.qq.com
+14.18.175.154 cdn.read.html5.qq.com
+14.18.175.154 pubgm.qq.com
+14.18.175.154 pubg.qq.com
+14.18.175.154 cdn.wetest.qq.com.cloud.tc.qq.com
+14.18.175.154 pubg.qq.com.cloud.tc.qq.com
+14.18.175.154 server.gameguardian.net
+14.18.175.154 dldir2.qq.com
+14.18.175.154 dldir3.qq.com
+14.18.175.154 dldir4.qq.com
+14.18.175.154 dldir5.qq.com
+14.18.175.154 dldir6.qq.com
+14.18.175.154 y.gtimg.cn
+14.18.175.154 kingwatch.datamore.qq.com
+14.18.175.154 e5956.f.akamaiedge.net
+14.18.175.154 dlglobal.qq.com
+14.18.175.154 axisfleetmanagement.co.uk
+14.18.175.154 qq.com
+14.18.175.154 intl.mtp.tencent.com
+14.18.175.154 weixin.qq.com
+14.18.175.154 strategy.beacon.qq.com
+14.18.175.154 pandoracdn.itop.qq.com
+14.18.175.154 pingtas.qq.com
+14.18.175.154 module.qq.com
+14.18.175.154 test.tpns.qq.com
+14.18.175.154 report.tpns.qq.com
+14.18.175.154 ns208.91.196.105open1.qq.com
+14.18.175.154 ns208.91.196.105open2.qq.com
+14.18.175.154 ns208.91.196.105open3.qq.com
+14.18.175.154 ns208.91.196.105open4.qq.com
+14.18.175.154 www.gcloudcs.com
+14.18.175.154 gcloudcs.com
+14.18.175.154 igame.gcloudcs.com
+14.18.175.154 qos.gamesafe.qq.com
+14.18.175.154 api.gamesafe.qq.com
+14.18.175.154 courtreport.gamesafe.qq.com
+14.18.175.154 gamesafe.qq.com
+14.18.175.154 game.eve.mdt.qq.com
+14.18.175.154 up.adjust.com
+14.18.175.154 dlied.qq.com
+14.18.175.154 dlied2.qq.com
+14.18.175.154 dlied2.tc.qq.com
+14.18.175.154 dlied3.qq.com
+14.18.175.154 dlied3.tc.qq.com
+14.18.175.154 dlied4.qq.com
+14.18.175.154 dlied4.tc.qq.com
+14.18.175.154 dlied5.qq.com
+::1        ip4-localhost ip4-loopback
+::1        ip6-localhost ip6-loopback
+
+58.250.137.36       localhost
+::1             ip6-localhost
+::1             ip4-localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1        ip4-localhost ip4-loopback
+fe80::1%lo0 localhost
+ff00::0 ip4-localnet
+ff00::0 ip4-mcastprefix
+ff02::1 ip4-allnodes
+ff02::2 ip4-allrouters
+ff02::3 ip4-allhosts
+fe80::1%lo0 localhost
+::1        ip6-localhost ip6-loopback
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+58.250.137.36 dlied5.tc.qq.com
+58.250.137.36 dlied6.qq.com
+58.250.137.36 dlied6.tc.qq.com
+58.250.137.36 oth.update.mdt.qq.coma
+58.250.137.36 tencent.qq.com
+58.250.137.36 beta.tencent.qq.com
+58.250.137.36 omgmta.qq.com
+58.250.137.36 www.qq.com
+58.250.137.36 app.qq.com
+58.250.137.36 mail.qq.com
+58.250.137.36 shop.qq.com
+58.250.137.36 oth.eve.mdt.qq.com:8080
+58.250.137.36 skip.violated.qq.com
+58.250.137.36 dlied5.myapp.com
+58.250.137.36 offlinepkg.vip.qq.com
+58.250.137.36 dl.url.cn
+58.250.137.36 update1.dlied.qq.com
+58.250.137.36 sq12.pg.qq.com
+58.250.137.36 broadcast.tencent.qq.com
+58.250.137.36 bsd.server.tencent.com
+58.250.137.36 sk.now.qq.com
+58.250.137.36 sim.now.qq.com
+58.250.137.36 bf.tencent.qq.com
+58.250.137.36 email.tencent.qq.com
+58.250.137.36 tool.pubgmobile.tencent.com
+58.250.137.36 app.server.tencent.com
+58.250.137.36 logs.dlied.qq.com
+58.250.137.36 mssql0.dlied.qq.com
+58.250.137.36 msexchange.dlied.qq.com
+58.250.137.36 acceso.tencent.qq.com
+14.18.175.154 ae.tencent.qq.com
+58.250.137.36 analytics.tencent.qq.com
+58.250.137.36 applications.tencent.qq.com
+58.250.137.36 application.tencent.qq.com
+58.250.137.36 bs.tencent.qq.com
+58.250.137.36 dc.tencent.qq.com
+58.250.137.36 data.mistat.intl.xiaomi.com
+58.250.137.36 test.vmp.qq.com
+58.250.137.36 help.itop.qq.com
+58.250.137.36 share.pubgameshowtime.com
+58.250.137.36 cdn2.pubgameshowtime.com
+58.250.137.36 file208.91.196.105igamecj.com
+58.250.137.36 mqqad.html5.qq.com
+58.250.137.36 dldir1.qq.com
+58.250.137.36 mdc.html5.qq.com
+58.250.137.36 clientrz2.itop.qq.com
+58.250.137.36 pingmid.qq.com
+58.250.137.36 cs.mbgame.gamesa
+58.250.137.36 api.netsnake.com
+58.250.137.36 api.phenixos.com
+58.250.137.36 apse.s.ludashi.com
+::1        ip4-localhost ip4-loopback
+::1        ip6-localhost ip6-loopback
+
+113.96.232.215       localhost
+::1             ip6-localhost
+::1             ip4-localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1        ip4-localhost ip4-loopback
+fe80::1%lo0 localhost
+ff00::0 ip4-localnet
+ff00::0 ip4-mcastprefix
+ff02::1 ip4-allnodes
+ff02::2 ip4-allrouters
+ff02::3 ip4-allhosts
+fe80::1%lo0 localhost
+::1        ip6-localhost ip6-loopback
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+113.96.232.215 apse-sstart.ludashi.com
+113.96.232.215 net.rayjump.com
+113.96.232.215 analytics.rayjump.com
+113.96.232.215 setting.rayjump.com
+113.96.232.215 adj.st
+113.96.232.215 2fapp.adjust.com
+113.96.232.215 pp.adjust.com
+113.96.232.215 u002fwww.adjust.com
+113.96.232.215 aapp.adjust.com
+113.96.232.215 cdn.ampproject.org
+113.96.232.215 d.tdm.qq.com
+113.96.232.215 dlied1.qq.com
+113.96.232.215 dlied1.tc.qq.com
+113.96.232.215 down.qq.com
+113.96.232.215 dr.game.qq.com
+113.96.232.215 intldlgs.qq.com
+113.96.232.215 nawzryhwatm.broker.tplay.qq.com
+113.96.232.215 log.tbs.qq.com
+113.96.232.215 logs.game.qq.com
+113.96.232.215 msdk.qq.com
+113.96.232.215 msdktest.qq.com
+113.96.232.215 mta.qq.com
+113.96.232.215 mtp.qq.com
+113.96.232.215 down.mtp.qq.com
+113.96.232.215 aeventlog.beacon.qq.com
+113.96.232.215 android.rqd.qq.com
+113.96.232.215 appsupport.qq.com
+113.96.232.215 astat.bugly.qq.com
+113.96.232.215 btrace.qq.com
+113.96.232.215 bugly.qq.com
+113.96.232.215 commdata.v.qq.com
+113.96.232.215 game.qq.com
+113.96.232.215 hk.api.unipay.qq.com
+113.96.232.215 idc.dir.tdm.qq.com
+113.96.232.215 idc.receiver.tdm.qq.com
+113.96.232.215 ieventlog.beacon.qq.com
+113.96.232.215 intldlgs.qq.com.tegsea.tc.qq.com
+113.96.232.215 m.guanjia.qq.com
+113.96.232.215 md.qq.com
+113.96.232.215 mtrace.qq.com
+113.96.232.215 ns1.qq.com
+113.96.232.215 ns2.qq.com
+113.96.232.215 ns3.qq.com
+113.96.232.215 ns4.qq.com
+113.96.232.215 overseas208.91.196.105img.qq.com
+113.96.232.215 report.huatuo.qq.com
+113.96.232.215 rz.tcp.qq.com
+113.96.232.215 ssd.tcdn.qq.com
+113.96.232.215 szmg.qq.com
+113.96.232.215 tcloudd1.qq.com
+::1        ip4-localhost ip4-loopback
+::1        ip6-localhost ip6-loopback
+
+125.39.52.26       localhost
+::1             ip6-localhost
+::1             ip4-localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1        ip4-localhost ip4-loopback
+fe80::1%lo0 localhost
+ff00::0 ip4-localnet
+ff00::0 ip4-mcastprefix
+ff02::1 ip4-allnodes
+ff02::2 ip4-allrouters
+ff02::3 ip4-allhosts
+fe80::1%lo0 localhost
+::1        ip6-localhost ip6-loopback
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+125.39.52.26 test.mtrace.qq.com
+125.39.52.26 x2.tcdn.qq.com
+125.39.52.26 xjpconfig.gcloud.qq.com
+125.39.52.26 eu.pandora.qq.com
+125.39.52.26 hk.pandora.qq.com
+125.39.52.26 na.pandora.qq.com
+125.39.52.26 thirdwx.qlogo.cn
+125.39.52.26 intlticket.cloud.tencent.com
+125.39.52.26 file208.91.196.105ticket.tencent.com
+125.39.52.26 mrms.igamecj.com
+125.39.52.26 pwk208.91.196.105match.igamecj.com
+125.39.52.26 49.51.42.152
+125.39.52.26 pay.igamecj.com
+125.39.52.26 apm.wetest.qq.com
+125.39.52.26 filecdn.igamecj.com
+125.39.52.26 napubgm.broker.tplay.qq.com
+125.39.52.26 ig208.91.196.105us208.91.196.105notice.igamecj.com
+125.39.52.26 ig208.91.196.105us208.91.196.105sdkapi.igamecj.com
+125.39.52.26 hkconfig.gcloud.qq.com
+125.39.52.26 api.facebook.com
+125.39.52.26 krping.igamecj.com
+125.39.52.26 meping.igamecj.com
+125.39.52.26 saping.igamecj.com
+125.39.52.26 hkping.igamecj.com
+125.39.52.26 euping.igamecj.com
+125.39.52.26 naping.igamecj.com
+125.39.52.26 hkspeed.igamecj.com
+125.39.52.26 124.156.13.169
+125.39.52.26 in.voice.gcloudcs.com
+125.39.52.26 qos.hk.gcloudcs.com
+125.39.52.26 119.28.249.241
+125.39.52.26 cloud.gsdk.proximabeta.com
+125.39.52.26 119.28.247.27
+125.39.52.26 platform208.91.196.105lookaside.fbsbx.com
+125.39.52.26 www.pubgmobile.com
+125.39.52.26 twitter.com
+125.39.52.26 syndication.twitter.com
+125.39.52.26 api.twitter.com
+125.39.52.26 googleads.g.doubleclick.net
+125.39.52.26 csi.gstatic.com
+125.39.52.26 www.google208.91.196.105analytics.com
+125.39.52.26 firebaseremoteconfig.googleapis.com
+125.39.52.26 app.adjust.com
+125.39.52.26 cs.mbgame.gamesafe.qq.com
+125.39.52.26 tpns.qq.com
+125.39.52.26 file208.91.196.105igamecj.akamaized.net
+125.39.52.26 graph.facebook.com
+125.39.52.26 dlied1.tcdn.qq.com
+125.39.52.26 dlied2.tcdn.qq.com
+125.39.52.26 dlied3.tcdn.qq.com
+125.39.52.26 dlied4.tcdn.qq.com
+125.39.52.26 dlied5.tcdn.qq.com
+125.39.52.26 dlied6.tcdn.qq.com
+125.39.52.26 tgb.qq.com
+125.39.52.26 vmp.qq.com
+125.39.52.26 cdn.wetest.qq.com
+125.39.52.26 app208.91.196.105measurement.com
+125.39.52.26 c.tdm.qq.com
+125.39.52.26 oth.str.mdt.qq.com
+125.39.52.26 android.bugly.qq.com
+125.39.52.26 lobby.igamecj.com
+125.39.52.26 119.28.109.187
+125.39.52.26 file.igamecj.com
+125.39.52.26 49.51.66.225
+125.39.52.26 pingma.qq.com
+125.39.52.26 162.14.20.75
+125.39.52.26 idcconfig.gcloud.qq.com
+125.39.52.26 tencentgames.helpshift.com
+125.39.52.26 oth.eve.mdt.qq.com
+125.39.52.26 172.104.163.233
+125.39.52.26 down.qq.comq
+125.39.52.26 clientreport.gfm.qq.com
+125.39.52.26 syzs.qq.com
+125.39.52.26 time.qq.com
+125.39.52.26 cloud.tencent.com
+125.39.52.26 dnf.qq.com
+125.39.52.26 gameguardian.net
+125.39.52.26 ecd.tencent.com
+::1        ip4-localhost ip4-loopback
+::1        ip6-localhost ip6-loopback
+
+14.18.175.154       localhost
+::1             ip6-localhost
+::1             ip4-localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1        ip4-localhost ip4-loopback
+fe80::1%lo0 localhost
+ff00::0 ip4-localnet
+ff00::0 ip4-mcastprefix
+ff02::1 ip4-allnodes
+ff02::2 ip4-allrouters
+ff02::3 ip4-allhosts
+fe80::1%lo0 localhost
+::1        ip6-localhost ip6-loopback
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+14.18.175.154 mobile.qq.com
+14.18.175.154 guanjia.qq.com
+14.18.175.154 guangzi.qq.com
+14.18.175.154 cdn.read.html5.qq.com
+14.18.175.154 pubgm.qq.com
+14.18.175.154 pubg.qq.com
+14.18.175.154 cdn.wetest.qq.com.cloud.tc.qq.com
+14.18.175.154 pubg.qq.com.cloud.tc.qq.com
+14.18.175.154 server.gameguardian.net
+14.18.175.154 dldir2.qq.com
+14.18.175.154 dldir3.qq.com
+14.18.175.154 dldir4.qq.com
+14.18.175.154 dldir5.qq.com
+14.18.175.154 dldir6.qq.com
+14.18.175.154 y.gtimg.cn
+14.18.175.154 kingwatch.datamore.qq.com
+14.18.175.154 e5956.f.akamaiedge.net
+14.18.175.154 dlglobal.qq.com
+14.18.175.154 axisfleetmanagement.co.uk
+14.18.175.154 qq.com
+14.18.175.154 intl.mtp.tencent.com
+14.18.175.154 weixin.qq.com
+14.18.175.154 strategy.beacon.qq.com
+14.18.175.154 pandoracdn.itop.qq.com
+14.18.175.154 pingtas.qq.com
+14.18.175.154 module.qq.com
+14.18.175.154 test.tpns.qq.com
+14.18.175.154 report.tpns.qq.com
+14.18.175.154 ns208.91.196.105open1.qq.com
+14.18.175.154 ns208.91.196.105open2.qq.com
+14.18.175.154 ns208.91.196.105open3.qq.com
+14.18.175.154 ns208.91.196.105open4.qq.com
+14.18.175.154 www.gcloudcs.com
+14.18.175.154 gcloudcs.com
+14.18.175.154 igame.gcloudcs.com
+14.18.175.154 qos.gamesafe.qq.com
+14.18.175.154 api.gamesafe.qq.com
+14.18.175.154 courtreport.gamesafe.qq.com
+14.18.175.154 gamesafe.qq.com
+14.18.175.154 game.eve.mdt.qq.com
+14.18.175.154 up.adjust.com
+14.18.175.154 dlied.qq.com
+14.18.175.154 dlied2.qq.com
+14.18.175.154 dlied2.tc.qq.com
+14.18.175.154 dlied3.qq.com
+14.18.175.154 dlied3.tc.qq.com
+14.18.175.154 dlied4.qq.com
+14.18.175.154 dlied4.tc.qq.com
+14.18.175.154 dlied5.qq.com
+::1        ip4-localhost ip4-loopback
+::1        ip6-localhost ip6-loopback
+
+208.91.196.105       localhost 
+::1             ip6-localhost
+::1             ip4-localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1        ip4-localhost ip4-loopback
+fe80::1%lo0 localhost
+ff00::0 ip4-localnet
+ff00::0 ip4-mcastprefix
+ff02::1 ip4-allnodes
+ff02::2 ip4-allrouters
+ff02::3 ip4-allhosts
+fe80::1%lo0 localhost
+::1        ip6-localhost ip6-loopback
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+208.91.196.105 hostnobanned.pubg.com
+208.91.196.105 hk.clientreport.gfm.qq.com
+208.91.196.105 gcloudcs.com
+208.91.196.105 tcdn.qq.com
+208.91.196.105 pubgkr.qq.com
+208.91.196.105 tencentgames.helpshift.qq.com
+208.91.196.105 bypass.tencent.com
+208.91.196.105 www.mmttgg.com.com
+208.91.196.105 mailreport.tencent.com
+208.91.196.105 antireport.tencent.com
+208.91.196.105 01.tencent.com
+208.91.196.105 anticheat.com
+208.91.196.105 mtp.pubgmobile.com
+208.91.196.105 253dwww.pubgmobile.com
+208.91.196.105 gcloud1.download.igamecj.com
+208.91.196.105 pubgglobal.com
+208.91.196.105 proxy.example.com
+208.91.196.105 domaintool.pubg.com
+208.91.196.105 antibanned.pubg.com
+::1        ip4-localhost ip4-loopback
+::1        ip6-localhost ip6-loopback
+
+1.9.0.1       localhost 
+::1             ip6-localhost
+::1             ip4-localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1        ip4-localhost ip4-loopback
+fe80::1%lo0 localhost
+ff00::0 ip4-localnet
+ff00::0 ip4-mcastprefix
+ff02::1 ip4-allnodes
+ff02::2 ip4-allrouters
+ff02::3 ip4-allhosts
+fe80::1%lo0 localhost
+::1        ip6-localhost ip6-loopback
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+1.9.0.1 bug.tencent.com
+1.9.0.1 bypass.tencent.com
+1.9.0.1 cloud.tencent.com
+1.9.0.1 report.cloud.tencent.com
+1.9.0.1 banwave.tencent.com
+1.9.0.1 antiban.tencent.com
+1.9.0.1 antibancheat.tencent.com
+1.9.0.1 antibanned.tencent.com
+1.9.0.1 anticheat.tencent.com
+1.9.0.1 antiheat.tencent.com
+1.9.0.1 antireport.tencent.com
+::1        ip4-localhost ip4-loopback
+::1        ip6-localhost ip6-loopback
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+0.0.0.0 .qq.com
+0.0.0.0 *.qq.com
+::1 .qq.com
+
+0.0.0.0 .igamecj.com
+0.0.0.0 *.igamecj.com
+::1 .igamecj.com
+
+0.0.0.0 .pubgameshowtime.com
+0.0.0.0 *.pubgameshowtime.com
+::1 .pubgameshowtime.com
+
+0.0.0.0 .qcloud.com
+0.0.0.0 *.qcloud.com
+::1 .qcloud.com
+
+0.0.0.0 .qlogo.cn
+0.0.0.0 *.qlogo.cn
+::1 .qlogo.cn
+
+0.0.0.0 .twimg.com
+0.0.0.0 *.twimg.com
+::1 .twimg.com
+
+0.0.0.0 .proximabeta.com
+0.0.0.0 *.proximabeta.com
+::1 .proximabeta.com
+
+0.0.0.0 .helpshift.com
+0.0.0.0 *.helpshift.com
+::1 .helpshift.com
+
+0.0.0.0 .fbsbx.com
+0.0.0.0 *.fbsbx.com
+::1 .fbsbx.com
+
+0.0.0.0 .umeng.com
+0.0.0.0 *.umeng.com
+::1 .umeng.com
+
+0.0.0.0 .pubgmobile.com
+0.0.0.0 *.pubgmobile.com
+::1 .pubgmobile.com
+
+0.0.0.0 .adjust.com
+0.0.0.0 *.adjust.com
+::1 .adjust.com
+
+0.0.0.0 .tuia.cn
+0.0.0.0 *.tuia.cn
+::1 .tuia.cn
+
+0.0.0.0 .userapi.com
+0.0.0.0 *.userapi.com
+::1 .userapi.com
+
+0.0.0.0 .qzone.com
+0.0.0.0 *.qzone.com
+::1 .qzone.com
+
+0.0.0.0 .actencent.com
+0.0.0.0 *.actencent.com
+::1 .actencent.com
+
+0.0.0.0 .phenixos.com
+0.0.0.0 *.phenixos.com
+::1 .phenixos.com
+
+0.0.0.0 .phoenixos.com
+0.0.0.0 *.phoenixos.com
+::1 .phoenixos.com
+
+0.0.0.0 .weiyun.com
+0.0.0.0 *.weiyun.com
+::1 .weiyun.com
+
+0.0.0.0 .flurry.com
+0.0.0.0 *.flurry.com
+::1 .flurry.com
+
+
+0.0.0.0 .tencent.com
+0.0.0.0 *.tencent.com
+::1 .tencent.com
+
+0.0.0.0 .liftoff.io
+0.0.0.0 *.liftoff.io
+::1 .liftoff.io
+
+0.0.0.0 .phoenixstudio.org
+0.0.0.0 *.phoenixstudio.org
+::1 .phoenixstudio.org
+
+0.0.0.0 .fbcdn.net
+0.0.0.0 *.fbcdn.net
+::1 .fbcdn.net
+
+0.0.0.0 .ludashi.com
+0.0.0.0 *.ludashi.com
+::1 .ludashi.com
+
+0.0.0.0 .aliyuncs.com
+0.0.0.0 *.aliyuncs.com
+::1 .aliyuncs.com
+
+0.0.0.0 .doubleclick.net
+0.0.0.0 *.doubleclick.net
+::1 .doubleclick.net
+
+0.0.0.0 .googlesyndication.com
+0.0.0.0 *.googlesyndication.com
+::1 .googlesyndication.com
+
+0.0.0.0 .akamaized.net
+0.0.0.0 *.akamaized.net
+::1 .akamaized.net
+
+0.0.0.0 .cloudfront.net
+0.0.0.0 *.cloudfront.net
+::1 .cloudfront.net
+
+0.0.0.0 .gstatic.com
+0.0.0.0 *.gstatic.com
+::1 .gstatic.com
+
+0.0.0.0 .cnzz.com
+0.0.0.0 *.cnzz.com
+::1 .cnzz.com
+
+0.0.0.0 .intellitxt.com
+0.0.0.0 *.intellitxt.com
+::1 .intellitxt.com
